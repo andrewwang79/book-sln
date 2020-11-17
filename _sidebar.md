@@ -42,9 +42,3 @@
 * [站点物流服务](site_logistics/SUMMARY.md)
   * [设计](site_logistics/design.md)
   * [数据库](site_logistics/db.md)
-* 行业知识
-  * [医疗](kb/medical/README.md)
-      * [放射](kb/medical/radiology.md)
-  * [金融](kb/finance/README.md)
-  * [零售](kb/retail/README.md)
-  * [物联网](kb/iot/README.md)
