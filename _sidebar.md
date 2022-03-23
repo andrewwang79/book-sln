@@ -1,4 +1,5 @@
 * [介绍](README.md)
+* [算法服务](alg/SUMMARY.md)
 * [零售](retail/README.md)
   * [系统设计](retail/design.md)
   * [商户(Seller)](retail/seller/SUMMARY.md)
